@@ -3,7 +3,7 @@ layout: default
 title: Freebox Revolution V6 Detailed Specifications
 permalink: /v6-specs/
 ---
-**Server (router + NAS):**
+### Freebox Revolution V6 Server (router + NAS):
 
 * ARM9 1.2GHz processor
 
@@ -23,7 +23,7 @@ permalink: /v6-specs/
 
 * OLED screen and touch-sensitive controls (on front)
 
-**Player (TV + Blu-ray):**
+### Freebox Revolution V6 Player (TV + Blu-ray):
 
 * Intel Atom CE4150 1.2GHz (x86 CPU)
 
