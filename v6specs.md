@@ -3,6 +3,8 @@ layout: default
 title: Freebox Revolution V6 Detailed Specifications
 permalink: /v6-specs/
 ---
+![Freebox Revolution V6 Server](/assets/freebox-server.png)
+
 ### Freebox Revolution V6 Server (router + NAS):
 
 * ARM9 1.2GHz processor
