@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Reverse Engineering Freebox Revolution V6
 permalink: /
 ---
