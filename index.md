@@ -3,9 +3,7 @@ layout: default
 title: Reverse Engineering Freebox Revolution V6
 permalink: /
 ---
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+<style> @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); </style>
 
 **OpenFreebox Revived** is a reverse engineering project for the Freebox Revolution V6, a feature-packed ISP router + TV box combo from the French ISP "Free" (part of the "Iliad" group).
 
