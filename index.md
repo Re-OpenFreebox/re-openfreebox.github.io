@@ -7,11 +7,12 @@ permalink: /
 **OpenFreebox Revived** is a reverse engineering project for the Freebox Revolution V6, a feature-packed ISP router + TV box combo from the French ISP "Free" (part of the "Iliad" group).
 
 ### Status: early stages
+View potential development [here](https://github.com/Re-OpenFreebox/revolution-v6).
 
 ### Goal
 My first goal with this project is to successfully reverse engineer the OS from both boxes (Server, which is the router and NAS, and Player, which is the TV box with Blu-ray reader), in order to make it work anywhere in the world without a subscription from "Free".
 
-My second goal is to install a custom version of Linux on the Player (since it is x86 based).
+My second goal is to install a custom version of Linux on the Player (since it is x86 based, and already runs a version of Linux).
 
 ### Box architecture and specs
 See the [Detailed Specifications](https://re-openfreebox.github.io/v6-specs/) page.
