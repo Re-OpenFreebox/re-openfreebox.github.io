@@ -6,8 +6,7 @@ permalink: /
 
 **OpenFreebox Revived** is a reverse engineering project for the Freebox Revolution V6, a feature-packed ISP router + TV box combo from the French ISP "Free" (part of the "Iliad" group).
 
-### Status
-**Project is still in a very early stage.**
+### Status: early stages
 
 ### Goal
 My first goal with this project is to successfully reverse engineer the OS from both boxes (Server, which is the router and NAS, and Player, which is the TV box with Blu-ray reader), in order to make it work anywhere in the world without a subscription from "Free".
