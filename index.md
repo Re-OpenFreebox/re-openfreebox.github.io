@@ -28,3 +28,5 @@ See the [Detailed Specifications](https://re-openfreebox.github.io/v6-specs/) pa
 [Freebox Revolution, routeur DDWRT et mDNS](https://clement.storck.me/blog/2011/08/freebox-revolution-routeur-ddwrt-et-mdns/)
 
 [Les entrailles de la Freebox 6](https://www.oezratty.net/wordpress/2010/les-entrailles-de-la-freebox-6/)
+
+[Freebox Free/Libre and Open Source Software (FLOSS)](https://floss.freebox.fr)
