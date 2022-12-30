@@ -7,19 +7,27 @@ permalink: /v6-specs/
 
 ### Freebox Revolution V6 Server (router + NAS):
 
-* ARM9 1.2GHz processor
+* Marvell 88F6281 Kirkwood ARMv5TE (ARM9) 1.2GHz CPU
 
-* 512MB RAM
+* 512MB DDR2-800 RAM
+
+* Linux 5.4.60 (custom, see more on FLOSS)
 
 * 250GB Hitachi Cinemastar C5K500.B HDD
 
-* 4 Ethernet ports: 10 / 100 / 1000 Base-T
+* 128MB STMicro NAND (firmware) (NAND01GW3B)
+
+* 4 Ethernet ports: 10 / 100 / 1000 Base-T (Marvell 88E6161)
 
 * ADSL / ADSL2+ ANSI T1 413 / ITU G.992.1, G.992.3, G.992.5 Annex A
 
-* 2x USB 2.0 Ports, e-SATA Port, SFP port, FXS port
+* Broadcom BCM6368 400MHz (MIPS32) (for xDSL) + Samsung K4H561638N 32MB DDR PC3200 RAM
 
-* Wi-Fi 802.11b/g/n 3×3 450 Mbps 2.4 Ghz
+* 2 USB 2.0 Ports, e-SATA Port, SFP port, FXS port
+
+* Wi-Fi 802.11b/g/n 3×3 450 Mbps 2.4 Ghz (Marvell 88W8366) (different variants)
+
+* Various chips: PNX8019DEHND00, 88E118R, PI7COX20303SL, CX20562, Le89810BSC
 
 * Base Station DECT CAT I/Q
 
@@ -35,11 +43,17 @@ permalink: /v6-specs/
 
 * 1GB DDR3-1333 RAM
 
-* 256MB NAND (firmware)
+* Linux (unknown version, see more on FLOSS)
+
+* 256MB STMicro NAND (firmware) (NAND026W3B2DZA6)
 
 * Video: SCART, HDMI 1.3
 
-* 2x USB 2.0 Ports, e-SATA Port, SPDIF out
+* Ethernet port (Marvell 88E118R + 24HSS1041A)
+
+* 2 USB 2.0 Ports, e-SATA Port, SPDIF out, RJ11 (V92 modem + Conexant chipset)
+
+* Various chips: USB2514B, TS5V330, PCM1781, ADT7473ARQZ, DIB7770PA, CC2530
 
 * DVB-T ETSI EN 300 744 (TNT TV)
 
