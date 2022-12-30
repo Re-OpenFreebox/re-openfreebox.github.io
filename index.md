@@ -5,6 +5,8 @@ permalink: /
 
 **OpenFreebox Revived** is a reverse engineering project for the Freebox Revolution V6, a feature-packed ISP router + TV box combo from the French ISP "Free" (part of the "Iliad" group).
 
+![Freebox Revolution V6](/docs/assets/freebox-v6-transparent.png){:height="175px" width="275px"}
+
 ### Status: early stages
 View development repository [here](https://github.com/Re-OpenFreebox/revolution-v6).
 
