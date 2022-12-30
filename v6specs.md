@@ -3,7 +3,7 @@ layout: default
 title: Freebox Revolution V6 Detailed Specifications
 permalink: /v6-specs/
 ---
-![Freebox Revolution V6 Server](/docs/assets/freebox-server.png)
+![Freebox Revolution V6 Server](/docs/assets/freebox-server-transparent.png){:height="81px" width="183px"}
 
 ### Freebox Revolution V6 Server (router + NAS):
 
@@ -24,6 +24,8 @@ permalink: /v6-specs/
 * Base Station DECT CAT I/Q
 
 * OLED screen and touch-sensitive controls (on front)
+
+![Freebox Revolution V6 Player](/docs/assets/freebox-player-transparent.png){:height="81px" width="183px"}
 
 ### Freebox Revolution V6 Player (TV + Blu-ray):
 
